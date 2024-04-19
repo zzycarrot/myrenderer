@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/zzy/renderer/tinyrenderer/build",
+  "command": "/usr/bin/g++    -pg -fopenmp -g -std=gnu++20 -o CMakeFiles/tinyrenderer.dir/geometry.cpp.o -c /home/zzy/renderer/tinyrenderer/geometry.cpp",
+  "file": "/home/zzy/renderer/tinyrenderer/geometry.cpp",
+  "output": "CMakeFiles/tinyrenderer.dir/geometry.cpp.o"
+},
+{
+  "directory": "/home/zzy/renderer/tinyrenderer/build",
+  "command": "/usr/bin/g++    -pg -fopenmp -g -std=gnu++20 -o CMakeFiles/tinyrenderer.dir/main.cpp.o -c /home/zzy/renderer/tinyrenderer/main.cpp",
+  "file": "/home/zzy/renderer/tinyrenderer/main.cpp",
+  "output": "CMakeFiles/tinyrenderer.dir/main.cpp.o"
+},
+{
+  "directory": "/home/zzy/renderer/tinyrenderer/build",
+  "command": "/usr/bin/g++    -pg -fopenmp -g -std=gnu++20 -o CMakeFiles/tinyrenderer.dir/model.cpp.o -c /home/zzy/renderer/tinyrenderer/model.cpp",
+  "file": "/home/zzy/renderer/tinyrenderer/model.cpp",
+  "output": "CMakeFiles/tinyrenderer.dir/model.cpp.o"
+},
+{
+  "directory": "/home/zzy/renderer/tinyrenderer/build",
+  "command": "/usr/bin/g++    -pg -fopenmp -g -std=gnu++20 -o CMakeFiles/tinyrenderer.dir/our_gl.cpp.o -c /home/zzy/renderer/tinyrenderer/our_gl.cpp",
+  "file": "/home/zzy/renderer/tinyrenderer/our_gl.cpp",
+  "output": "CMakeFiles/tinyrenderer.dir/our_gl.cpp.o"
+},
+{
+  "directory": "/home/zzy/renderer/tinyrenderer/build",
+  "command": "/usr/bin/g++    -pg -fopenmp -g -std=gnu++20 -o CMakeFiles/tinyrenderer.dir/tgaimage.cpp.o -c /home/zzy/renderer/tinyrenderer/tgaimage.cpp",
+  "file": "/home/zzy/renderer/tinyrenderer/tgaimage.cpp",
+  "output": "CMakeFiles/tinyrenderer.dir/tgaimage.cpp.o"
+}
+]

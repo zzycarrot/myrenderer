@@ -1,0 +1,3 @@
+/home/zzy/renderer/tinyrenderer/build/CMakeFiles/tinyrenderer.dir
+/home/zzy/renderer/tinyrenderer/build/CMakeFiles/edit_cache.dir
+/home/zzy/renderer/tinyrenderer/build/CMakeFiles/rebuild_cache.dir
